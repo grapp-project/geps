@@ -1,4 +1,6 @@
 *.backup
 
-./old
-./local
+old/
+local/
+
+draft-*.md
