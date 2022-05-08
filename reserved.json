@@ -1,0 +1,34 @@
+{
+    "5": {
+        "authors": ["Remi SARRAZIN"],
+        "reason": "Documentation Guidelines"
+    },
+    "6": {
+        "authors": ["Remi SARRAZIN"],
+        "reason": "Features"
+    },
+    "7": {
+        "authors": ["Remi SARRAZIN"],
+        "reason": "Releases"
+    },
+    "8": {
+        "authors": ["Remi SARRAZIN"],
+        "reason": "Code Style Guidelines"
+    },
+    "200": {
+        "authors": ["Remi SARRAZIN"],
+        "reason": "Remote Command Execution"
+    },
+    "210": {
+        "authors": ["Remi SARRAZIN"],
+        "reason": "Infrastructure as code"
+    },
+    "220": {
+        "authors": ["Remi SARRAZIN"],
+        "reason": "Recipes"
+    },
+    "2101-2110": {
+        "authors": ["Remi SARRAZIN"],
+        "reason": "POC Specification components"
+    }
+}
